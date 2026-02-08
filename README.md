@@ -2,4 +2,4 @@
 
 AI recommendation engine
 
-Update 6 by Yuki Tanaka
+Update 7 by Priya Sharma
