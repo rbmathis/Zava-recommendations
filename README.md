@@ -2,4 +2,4 @@
 
 AI recommendation engine
 
-Update 8 by David Kim
+Update 9 by Isabella Santos
